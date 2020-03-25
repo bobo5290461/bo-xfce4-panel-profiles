@@ -1,0 +1,1 @@
+# bo-xfce4-panel-profiles
